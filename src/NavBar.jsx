@@ -17,7 +17,7 @@ const NavBar = () => {
   return (
     <div className='navbar-container'>
         <Link to='/'>
-        <img  src="%PUBLIC_URL%/logo.png" alt="Merve's Crochet" style={{width: "94px"}} />
+        <img  src="images/logo.png" alt="Merve's Crochet" style={{width: "94px"}} />
         </Link>
 
     <form className="search-container" role="search">

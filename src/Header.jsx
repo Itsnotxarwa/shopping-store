@@ -34,7 +34,7 @@ const Header = ({setMenuOpen, cartItems, onRemoveItem, activeLink, setActiveLink
       </button>
 
       <Link to='/'>
-      <img  src="/logo.jpg" alt="Merve's Crochet" className='logo-ss' style={{ width: "94px" }} />
+      <img  src="images/logo.jpg" alt="Merve's Crochet" className='logo-ss' style={{ width: "94px" }} />
       </Link>
 
         <button className='cart-shopping-s' onClick={() => setShowTooltipSs(true)}>
